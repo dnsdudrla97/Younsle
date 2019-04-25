@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<meta charset ="UTF-8" />
 		<title>Git traning version GiT introduce</title>
 	</head>
 	<body>
