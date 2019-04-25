@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Git traning</title>
+		<title>Git traning version</title>
 	</head>
 	<body>
 	
